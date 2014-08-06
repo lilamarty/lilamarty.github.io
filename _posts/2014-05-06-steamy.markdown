@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Steamy"
+date:   2014-05-06 12:00:00
+imgfolder: steamy
+
+feature: steamy-1.jpg
+---
+
+The flip book that helps you discover what type of tea is best for you. Depending on how the questions are answered changes the outcome of the entire book.
+
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-2.jpg">
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-3.jpg">
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-4.jpg">

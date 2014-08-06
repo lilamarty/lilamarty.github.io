@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "S &amp; N"
+date:   2014-05-04 12:00:00
+imgfolder: s-n
+
+feature: s-n-1.jpg
+---
+
+The Straight and Narrow yields little discovery.
+
+I participated in the 2013 Sweat Workshop which is a creative week long design workshop where a group of designers collaborate and create exciting work. At the beginning of the workshop we were purposed with the question, "How can we represent the Graphic Culture of a Journey as a driveway mural"?
+
+After a variety of different discussions, as team we decided that each of us would have our own pantone color and individual pattern that represented our personal journey. We then designed the saying and the typeface that was used on the mural.
+
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-2.jpg">
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-3.jpg">
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-4.jpg">

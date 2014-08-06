@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+<section id="portfolio">
+<div class="container">
+
+<ul>
+  {% for post in site.posts order:ascending %}
+    <a href="{{ post.url }}"><li>
+      <img src="{{ site.url }}/images/{{ post.imgfolder }}/{{ post.imgfolder }}-thumb.jpg" alt="{{ post.title }} Thumbnail">
+      <div class="project-title"><p>{{ post.title }}</p></div>
+    </li></a>
+  {% endfor %}
+  <li>
+      <img src="{{ site.url }}/images/coming-soon.jpg">
+      <div class="project-title"><p>Coming Soon!</p></div>
+    </li>
+</ul>
+
+</div>
+</section>
+
+<section id="about">
+<div class="container">
+<hr>
+<h2>About Me</h2>
+<p>My passion for art spans beyond my BFA in graphic design from BGSU. It lives in experimental design & hand-crafted projects—my work is driven by the power of collaboration and the importance of determination. I’m always intrigued by projects that allow me to showcase my artistry, and I intend to never stop learning along the way.</p>
+</div>
+</section>

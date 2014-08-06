@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="post">
+<div class='container'>
+<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.feature }}">
+<hr class='project-title-line'>
+<h2 class='title'>{{ page.title }}</h2>
+
+
+{{ content }}
+
+<div id='pagination'>
+  <a href="{{ page.previous.url }}" class="previous-link">< {{page.previous.title}}</a>
+  <a href="{{ page.next.url }}" class="next-link">{{page.next.title}} ></a>
+</div>
+</div>
+
+<div id='portfolio-link'>
+  <hr>
+  <p><a href="/">Back to portfolio</a></p>
+</div>
+</div>

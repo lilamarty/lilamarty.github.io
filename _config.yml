@@ -1,0 +1,10 @@
+name: Lila Marty
+permalink: /:title
+url: http://lilamarty.com
+
+ftp_host: 'lilamarty.com'
+ftp_dir: '/lilamarty.com'
+ftp_passive: false
+
+ftp_username: 'lilmar7'
+ftp_password: 'Norton.Marty5'
