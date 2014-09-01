@@ -8,12 +8,12 @@ title: Home
 <ul>
   {% for post in site.posts order:ascending %}
     <a href="{{ post.url }}"><li>
-      <img src="{{ site.url }}/images/{{ post.imgfolder }}/{{ post.imgfolder }}-thumb.jpg" alt="{{ post.title }} Thumbnail">
+      <img src="/images/{{ post.imgfolder }}/{{ post.imgfolder }}-thumb.jpg" alt="{{ post.title }} Thumbnail">
       <div class="project-title"><p>{{ post.title }}</p></div>
     </li></a>
   {% endfor %}
   <li>
-      <img src="{{ site.url }}/images/coming-soon.jpg">
+      <img src="/images/coming-soon.jpg">
       <div class="project-title"><p>Coming Soon!</p></div>
     </li>
 </ul>
