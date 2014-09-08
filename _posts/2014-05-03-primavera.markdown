@@ -9,4 +9,4 @@ feature: primavera-1.jpg
 
 The invitation design and collateral for the Medici Circle's Primavera Event.
 
-<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-2.jpg">
+<img src="/images/{{ page.imgfolder }}/{{ page.imgfolder }}-2.jpg">
