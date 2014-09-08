@@ -11,6 +11,6 @@ Just like people, each secret has a story worth knowing. These memories are what
 
 This project illuminated different aspects of my life. It has also caused me to look at materials in a new way and to experiment and question as much as possible.
 
-<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-2.jpg">
-<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-3.jpg">
-<img src="{{ site.url }}/images/{{ page.imgfolder }}/{{ page.imgfolder }}-4.jpg">
+<img src="/images/{{ page.imgfolder }}/{{ page.imgfolder }}-2.jpg">
+<img src="/images/{{ page.imgfolder }}/{{ page.imgfolder }}-3.jpg">
+<img src="/images/{{ page.imgfolder }}/{{ page.imgfolder }}-4.jpg">
