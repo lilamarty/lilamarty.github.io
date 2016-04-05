@@ -7,6 +7,17 @@ body {
   font-weight: 300;
 }
 
+html {
+  height: 100%;
+}
+body.new2016 {
+  height: 100%;
+  background-color: #333333;
+  background-image: url('/images/2016bg.gif');
+  background-size: 100%;
+  background-position: center;
+}
+
 .container {
   *zoom: 1;
   width: 860px;
